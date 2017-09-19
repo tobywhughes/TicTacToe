@@ -19,8 +19,7 @@ namespace TicTacToe
             do
             {
                 Console.Clear();
-                Console.WriteLine("Player 1: X /n Player 2: O");
-                Console.WriteLine("\n");
+                Console.WriteLine("Player 1: X /n Player 2: O\n\n");
 
                 if (player % 2 == 0)
                 {
